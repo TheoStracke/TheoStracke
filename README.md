@@ -41,7 +41,7 @@ Quando não estou codando, provavelmente estou jogando, testando algo novo ou me
 ### 📈 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theostracke&layout=compact&theme=tokyonight"/>
 </p>
 
