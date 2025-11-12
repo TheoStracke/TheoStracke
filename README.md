@@ -38,12 +38,16 @@ Quando não estou codando, provavelmente estou jogando, testando algo novo ou me
 
 ---
 
-### 📈 Estatísticas
+## 🎮 Painel de Desempenho
 
-<p align="center">
-  <img height="160em" src="https://readme-pink.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://readme-pink.vercel.app/api/top-langs/?username=theostracke&layout=compact&theme=tokyonight"/>
-</p>
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=theostracke&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theostracke&layout=compact&theme=tokyonight&count_private=true)
+
+## 📈 Atividade Detalhada
+
+![Theo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theostracke&theme=react-dark&hide_border=true&count_private=true)
+
 
 
 ---
