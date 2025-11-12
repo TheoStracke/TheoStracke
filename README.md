@@ -1,20 +1,24 @@
-# 👋 Olá! Eu sou o Theo Stracke  
+<!-- THEO STRACKE - README MINIMALISTA GAMER -->
+<!-- Sinta-se livre para personalizar o conteúdo abaixo -->
 
-💻 Desenvolvedor apaixonado por tecnologia e inovação.  
-🎯 Focado em criar sistemas práticos, eficientes e com boa experiência de uso.  
-🚀 Atualmente explorando **Spring Boot**, **React**, **Docker** e **Vagrant**.
+<h1 align="center">👾 Theo Stracke</h1>
 
----
-
-### 🧠 Sobre mim
-Sou uma pessoa curiosa por natureza, sempre buscando entender como as coisas funcionam e como posso melhorá-las.  
-Tenho experiência com **aplicações desktop e web**, e adoro transformar ideias em projetos reais.
+<p align="center">
+  💻 Desenvolvedor Full Stack | 🎮 Gamer & Entusiasta de Tecnologia  
+</p>
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### 🚀 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, games e inovação.  
+Gosto de transformar ideias em soluções práticas, com código limpo, design bem feito e uma boa experiência de usuário.  
+Atualmente focado em **Spring Boot**, **React**, **Docker** e **automação de ambientes com Vagrant**.
+
+---
+
+### 🧠 Stack principal
 <div align="center">
-  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,21 +30,44 @@ Tenho experiência com **aplicações desktop e web**, e adoro transformar ideia
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🌐 Projeto em destaque
+
+#### 🧾 [Despa Fácil](https://despa-facil.vercel.app/)
+Sistema inteligente para facilitar e agilizar despachos e entregas.  
+Interface moderna, backend robusto e experiência fluida — tudo feito por mim com **tecnologias web modernas**.  
+
+🔗 **Acesse:** [https://despa-facil.vercel.app/](https://despa-facil.vercel.app/)
+
+---
+
+### 📊 Minhas estatísticas
 <div align="center">
 
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theostracke&layout=compact&theme=tokyonight)
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theostracke&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theostracke&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### 📫 Onde me encontrar
-- 💼 [LinkedIn](https://linkedin.com/in/theostracke)  
-- ✉️ [E-mail](mailto:theostracke@exemplo.com)  
-- 🌐 [Portfólio](https://github.com/theostracke)
+### 🎮 Gamer Mood
+```bash
+> Loading next project...
+> Level: Full Stack Developer
+> XP: 87% to next skill unlocked
+📫 Conecte-se comigo
+<div align="center">
+
+
+
+</div>
+⭐ "Desenvolver é como jogar — cada bug é um chefe pra derrotar."
+
+yaml
+Copiar código
 
 ---
 
-⭐ _Se gostou de algum projeto meu, deixe uma estrela!_
+Quer que eu **adicione o print ou banner do Despa Fácil** (exemplo: imagem com preview do site logo abaixo do título do projeto)?  
+Fica incrível e dá um visual mais completo no seu perfil.  
+Se quiser, me manda o link ou a imagem e eu adiciono na versão final do README.
