@@ -3,19 +3,19 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;2+apps+em+produ%C3%A7%C3%A3o+%F0%9F%9F%A2;Interfaces+should+feel+effortless.+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;2+apps+in+production+%F0%9F%9F%A2;Interfaces+should+feel+effortless.+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Frontend & Full-Stack Developer especializado em React e Next.js,**
-**construindo aplicações modernas com foco em performance, UX e arquitetura escalável.**
+**Frontend & Full-Stack Developer specialized in React and Next.js,**
+**building modern applications with a focus on performance, UX, and scalable architecture.**
 
-• 2 aplicações reais em produção
-• Experiência com APIs REST, autenticação e upload de arquivos
-• Foco em performance, arquitetura e UX
+• 2 real applications in production
+• Experience with REST APIs, authentication, and file uploads
+• Focus on performance, architecture, and UX
 
 🔗 **[theostracke.work](https://theostracke.work)**
 
@@ -23,38 +23,38 @@
 
 ---
 
-## 🧩 Sobre Mim
+## 🧩 About Me
 
 ```typescript
 const theo: Developer = {
-  nome:        "Theo Stracke",
-  foco:        "Frontend Developer",
-  localização: "Brasil 🇧🇷",
+  name:        "Theo Stracke",
+  focus:       "Frontend Developer",
+  location:    "Brazil 🇧🇷",
   stack:       ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
-  emProdução:  ["SisCeD", "DespaFácil"],
-  estudando:   ["Arquitetura escalável em Next.js", "Docker", "Testes automatizados"],
-  metas_2026:  [
-    "Aprofundar TypeScript - Docker",
-    "Publicar projetos open source",
-    "Criar aplicações que facilitam a vida do usuário"
+  inProduction:["SisCeD", "DespaFácil"],
+  studying:    ["Scalable architecture in Next.js", "Docker", "Automated testing"],
+  goals_2026:  [
+    "Deepen TypeScript - Docker",
+    "Publish open source projects",
+    "Create applications that make the user's life easier"
   ]
 };
 ```
 
 ---
 
-## 💼 Projetos Reais
+## 💼 Real Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔴 DespaFácil
-**Plataforma de Despacho Simplificado**
+**Simplified Dispatch Platform**
 
-Solução full stack completa para gestão e envio de documentos, com foco em eficiência operacional.
+Complete full-stack solution for document management and submission, focusing on operational efficiency.
 
-> 💼 **Impacto:** plataforma utilizada para envio e gestão de documentos — com autenticação, upload e notificações rodando em produção.
+> 💼 **Impact:** platform used for sending and managing documents — with authentication, uploads, and notifications running in production.
 
 <img src="https://i.imgur.com/YDUqhGe.png" width="100%" style="border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.4); margin-bottom:10px"/>
 
@@ -63,22 +63,22 @@ Solução full stack completa para gestão e envio de documentos, com foco em ef
     <img src="https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/theostracke/despafacil">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-**Funcionalidades**
-- Autenticação JWT
-- Upload de documentos
-- Painel administrativo
-- E-mail transacional
-- Gerenciamento de usuários
+**Features**
+- JWT Authentication
+- Document upload
+- Administrative panel
+- Transactional email
+- User management
 
-**Arquitetura**
+**Architecture**
 
-```
+```text
 Client (Browser)
        ↓
 Next.js Frontend
@@ -88,14 +88,14 @@ Node.js / Express API
 PostgreSQL Database
 ```
 
-| Camada | Tecnologia |
+| Layer | Technology |
 | :--- | :--- |
 | Frontend | Next.js + TypeScript + Tailwind |
 | Backend | Node.js + Express |
-| Banco | PostgreSQL |
+| Database | PostgreSQL |
 | Deploy | Vercel |
 
-**Status:** 🟢 Em produção
+**Status:** 🟢 In production
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,express,postgres" />
 
@@ -103,11 +103,11 @@ PostgreSQL Database
 <td width="50%" valign="top">
 
 ### 🔴 SisCeD
-**Plataforma de Certificados Digitais**
+**Digital Certificates Platform**
 
-Sistema inteligente de agendamento e gestão de solicitações de certificados digitais com fila e eficiência operacional.
+Smart scheduling and management system for digital certificate requests with queue management and operational efficiency.
 
-> 💼 **Impacto:** sistema usado para gerenciar atendimentos de certificados digitais — agendamentos e fila operacional rodando em produção.
+> 💼 **Impact:** system used to manage digital certificate appointments — scheduling and operational queue running in production.
 
 <img src="https://i.imgur.com/abIcI0t.png" width="100%" style="border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.4); margin-bottom:10px"/>
 
@@ -116,21 +116,21 @@ Sistema inteligente de agendamento e gestão de solicitações de certificados d
     <img src="https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/theostracke/dispatch-hub">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-**Funcionalidades**
-- Gestão de fila de atendimento
-- Agendamento digital
-- Painel de controle
-- Relatórios operacionais
+**Features**
+- Service queue management
+- Digital scheduling
+- Dashboard
+- Operational reports
 
-**Arquitetura**
+**Architecture**
 
-```
+```text
 Client (Browser)
        ↓
 React + Vite Frontend
@@ -138,14 +138,14 @@ React + Vite Frontend
 Supabase (Auth + DB + Storage)
 ```
 
-| Camada | Tecnologia |
+| Layer | Technology |
 | :--- | :--- |
 | Frontend | React + TypeScript + Tailwind |
 | BaaS | Supabase (Auth + DB) |
 | Build | Vite |
-| Deploy | Produção ativa |
+| Deploy | Active production |
 
-**Status:** 🟢 Em produção
+**Status:** 🟢 In production
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase" />
 
@@ -158,9 +158,9 @@ Supabase (Auth + DB + Storage)
 <td width="100%" valign="top">
 
 ### 🌐 Portfolio — theostracke.work
-**Site pessoal construído com performance e UX como prioridade absoluta**
+**Personal website built with performance and UX as absolute priorities**
 
-Construído do zero com foco em animações avançadas, design system consistente e experiência imersiva.
+Built from scratch focusing on advanced animations, consistent design system, and immersive experience.
 
 <img src="https://i.imgur.com/Y4WJ9gu.png" width="100%" style="border-radius:10px; box-shadow:0 8px 30px rgba(0,0,0,0.4); margin-bottom:10px"/>
 
@@ -169,21 +169,21 @@ Construído do zero com foco em animações avançadas, design system consistent
     <img src="https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/theostracke/portfolio">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-**Arquitetura**
+**Architecture**
 
-| Tecnologia | Propósito |
+| Technology | Purpose |
 | :--- | :--- |
-| **Next.js 14** | SSR, App Router e otimização de performance |
-| **TypeScript** | Tipagem estática rigorosa para qualidade de código |
-| **Tailwind CSS** | Design system utility-first e consistente |
-| **Framer Motion** | Animações declarativas e micro-interações |
-| **Lenis** | Smooth scrolling de alta performance |
+| **Next.js 14** | SSR, App Router, and performance optimization |
+| **TypeScript** | Strict static typing for code quality |
+| **Tailwind CSS** | Consistent and utility-first design system |
+| **Framer Motion** | Declarative animations and micro-interactions |
+| **Lenis** | High-performance smooth scrolling |
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" />
 
@@ -193,41 +193,41 @@ Construído do zero com foco em animações avançadas, design system consistent
 
 ---
 
-## 🏗 Engenharia
+## 🏗 Engineering
 
-Práticas que aplico em todos os meus projetos:
+Practices I apply in all my projects:
 
-- **Componentização** e arquitetura modular com separação clara de responsabilidades
-- **TypeScript strict** para segurança de código e manutenibilidade
-- **APIs REST** estruturadas com rotas organizadas e tratamento de erros
-- **Autenticação JWT** com controle de sessão e proteção de rotas
-- **Gerenciamento de estado** com boas práticas (Context API, React Query)
-- **Otimização de performance** em Next.js (SSR, lazy loading, image optimization)
-- **Responsividade e acessibilidade** como padrão, não como adicional
-
----
-
-## 🎨 Especialidades Frontend
-
-- Criação de interfaces modernas com atenção a cada detalhe visual
-- Animações avançadas com **Framer Motion** e CSS
-- Design system consistente com **Tailwind CSS**
-- Otimização de performance em **React** e **Next.js**
-- UX focada em fluidez, micro-interações e clareza
+- **Componentization** and modular architecture with clear separation of concerns
+- **Strict TypeScript** for code safety and maintainability
+- Structured **REST APIs** with organized routes and error handling
+- **JWT Authentication** with session control and route protection
+- **State management** with best practices (Context API, React Query)
+- **Performance optimization** in Next.js (SSR, lazy loading, image optimization)
+- **Responsiveness and accessibility** as defaults, not afterthoughts
 
 ---
 
-## ⚙️ Stack Completa
+## 🎨 Frontend Specialties
+
+- Creation of modern interfaces with attention to every visual detail
+- Advanced animations with **Framer Motion** and CSS
+- Consistent design system with **Tailwind CSS**
+- Performance optimization in **React** and **Next.js**
+- UX focused on fluidity, micro-interactions, and clarity
+
+---
+
+## ⚙️ Full Stack
 
 <div align="center">
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" /><br/><br/>
 
-**Backend & Banco de Dados**
+**Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" /><br/><br/>
 
-**Ferramentas & Deploy**
+**Tools & Deployment**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 
 </div>
@@ -247,32 +247,32 @@ Práticas que aplico em todos os meus projetos:
 
 ## 🌍 Open Source
 
-- Repositórios públicos com projetos completos em produção
-- Código organizado seguindo boas práticas de arquitetura frontend
-- Planejando novos projetos open source focados em React e Next.js
+- Public repositories with full projects in production
+- Organized code following frontend architecture best practices
+- Planning new open source projects focused on React and Next.js
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Currently Studying
 
-- Arquitetura escalável em Next.js (Server Components, Streaming, Cache)
-- Docker para padronização de ambientes de desenvolvimento
-- Testes automatizados com Vitest e Testing Library
-
----
-
-## 💡 Filosofia de Desenvolvimento
-
-Acredito que software de qualidade precisa ser:
-
-- **Simples de entender** — código limpo e bem estruturado
-- **Fácil de manter** — arquitetura que escala sem virar um caos
-- **Rápido para o usuário** — performance não é opcional
-- **Bonito sem sacrificar funcionalidade** — UX e engenharia juntos
+- Scalable architecture in Next.js (Server Components, Streaming, Cache)
+- Docker for standardizing development environments
+- Automated testing with Vitest and Testing Library
 
 ---
 
-## 📬 Contato
+## 💡 Development Philosophy
+
+I believe quality software must be:
+
+- **Simple to understand** — clean and well-structured code
+- **Easy to maintain** — architecture that scales without becoming chaotic
+- **Fast for the user** — performance is not optional
+- **Beautiful without sacrificing functionality** — UX and engineering together
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
