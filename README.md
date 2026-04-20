@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**Frontend & Full-Stack Developer specialized in React and Next.js,**
+**Full-Stack Developer specialized in React and Next.js,**
 **building modern applications with a focus on performance, UX, and scalable architecture.**
 
 • 2 real applications in production
@@ -28,7 +28,7 @@
 ```typescript
 const theo: Developer = {
   name:        "Theo Stracke",
-  focus:       "Frontend Developer",
+  focus:       "Full-Stack Developer",
   location:    "Brazil 🇧🇷",
   stack:       ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"],
   inProduction:["SisCeD", "DespaFácil"],
